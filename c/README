@@ -3,3 +3,6 @@ tiles.c:
 
 eight_queens.c:
   The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens attack each other.
+
+coin_change.c:
+  Given a set of denominations, get the minimun number of coins required to add to the input amount n.
