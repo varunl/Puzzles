@@ -1,2 +1,5 @@
 tiles.c:
   Question 1 from ZIO(Zonal Informatics Olympiad) 2009. http://www.iarcs.org.in/inoi/2009/zio2009/zio2009-qpaper.pdf
+
+eight_queens.c:
+  The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens attack each other.
